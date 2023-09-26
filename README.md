@@ -1,7 +1,7 @@
 
 # OfficeAI
 
-[English] | [中文](./README_zh.md)
+English | [中文](./README_zh.md)
 
 [![Release](https://img.shields.io/github/release/office-sec/OfficeAI.svg)](https://github.com/office-sec/OfficeAI/releases)
 
