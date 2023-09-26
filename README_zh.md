@@ -1,7 +1,9 @@
 
 # OfficeAI
 
-[English](/README.md) [中文](/README_zh.md)
+[English](/README.md) | 中文 
+
+[![Release](https://img.shields.io/github/release/office-sec/OfficeAI.svg)](https://github.com/office-sec/OfficeAI/releases)
 
 OfficeAI 是一款提升办公效率的智能助手软件，适合使用 Microsoft Office 和 WPS Office 办公的用户，提供与 Office Copilot 类似的功能和使用体验。
 
