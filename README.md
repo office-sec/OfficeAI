@@ -1,7 +1,9 @@
 
 # OfficeAI
 
-[English](/README.md) [中文](/README_zh.md)
+[English] | [中文](./README_zh.md)
+
+[![Release](https://img.shields.io/github/release/office-sec/OfficeAI.svg)](https://github.com/office-sec/OfficeAI/releases)
 
 OfficeAI is an intelligent assistant software designed to enhance office efficiency, particularly for users of Microsoft Office and WPS Office. It offers functionalities and user experience similar to those provided by Office Copilot.
 
