@@ -20,12 +20,14 @@ win7/win10/win11或更高 + Office2013/Office2016/Office2019/Office 365
 
 ## 周报整理
 通过智能化的方式，快速整合您的工作成果和数据，生成结构化的周报，让您轻松了解工作进展，并能够便捷地分享给相关团队或领导。这项功能大大简化了周报制作的流程，为您节省宝贵的时间和精力。
+
 <img alt="快速整理周报" height="300" src="images/weekly_report.png" title="周报整理"/>
 
 ## 文章润色
 根据您的需求和偏好，对文章进行改善和优化，以提升其质量。无论是在语言表达、逻辑连贯性还是内容流畅度方面，AI 助手能够根据您的指导进行调整，使得文章更符合您的期望和风格，确保最终产出的文稿质量更高。
 ## 纪要生成
 自动提取文档重要信息的能力，能够智能地从文档中识别并提取关键内容，然后生成结构化的会议纪要。这项功能大大简化了会议纪要的撰写过程，帮助您快速捕捉会议中的要点，并将其整理成易于阅读和分享的格式，让您的会议纪要更加清晰、准确。
+
 <img alt="自动生成会议纪要" height="300"  src="images/meeting_summary.gif" title="会议纪要" />
 
 ## 文章续写
@@ -47,6 +49,7 @@ win7/win10/win11或更高 + Office2013/Office2016/Office2019/Office 365
 
 ## 删除全文空行
 快速删除文档中产生的大段空行，使得文档格式更加清晰整洁。这项功能让您能够一键去除多余的空行，节省时间并确保文档呈现更为规范的格式。
+
 <img alt="全文删除空行" height="300" src="images/removebreaks.gif" title="全文删除空行"/>
 
 ## 设置背景颜色
@@ -58,10 +61,12 @@ win7/win10/win11或更高 + Office2013/Office2016/Office2019/Office 365
 
 ## 插入不变形图片
 向表格当前单元格插入图片，适应单元格大小的图片，解决每次插入图片时导致表格拉大，影响外观的问题。
+
 <img alt="单元格插入不变形图片" height="300" src="images/table_insert_pic.gif" title="单元格插入不变形图片"/>
 
 ## 跨页添加表头
 为每一页的表格添加标题。这一操作使得每个表格页面都能清晰地呈现标题信息，让文档更具结构性和可读性，方便用户阅读和理解多页表格内容。这项功能极大地提升了文档的整体组织和可视化效果，使得表格在分页显示时更为清晰明了。
+
 <img alt="表格每页都显示标题" height="300" src="images/repeat_table_title.gif" title="表格每页都显示标题"/>
 
 ## 删除空白页
@@ -75,5 +80,5 @@ win7/win10/win11或更高 + Office2013/Office2016/Office2019/Office 365
 
 ## 联系我们
 
-<img alt="微信联系我们" height="150" src="images/images/contactWX.png" title="微信" width="150"/>
-<img alt="QQ联系我们" height="150" src="images/images/contactQQ.png" title="微信" width="150"/>
+<img alt="微信联系我们" height="150" src="images/contactWX.png" title="微信" width="150"/>
+<img alt="QQ联系我们" height="150" src="images/contactQQ.png" title="微信" width="150"/>
