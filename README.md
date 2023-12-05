@@ -1,8 +1,9 @@
 # OfficeAI
 
-[English](/README_en.md) | [中文](/README_zh.md)
+[English](/README_en.md) | [中文](/README_zh.md) 
 
-[![Release](https://img.shields.io/github/release/office-sec/OfficeAI.svg)](https://github.com/office-sec/OfficeAI/releases)
+
+[![Release](https://img.shields.io/github/release/office-sec/OfficeAI.svg)](https://github.com/office-sec/OfficeAI/releases)  [![website](https://img.shields.io/badge/website-OfficeAI-red)](https://www.office-ai.cn) [![QQ](https://img.shields.io/badge/QQ-1346649874-blue?logo=tencentqq)](images/contactQQ.png)  [![wechat](https://img.shields.io/badge/wechat-cleanmacro2021-blue?logo=wechat)](images/contactWX.png)
 
 ## Feature Overview
 OfficeAI Assistant is a plugin for Word that integrates AI capabilities into Microsoft Office. It solves problems like "How to input a check mark (✔)?" and "How to add text before inserting a table?" when Office features are too complex to navigate. With the AI Assistant, you simply tell it what you need, and AI automatically does it for you. Additionally, the assistant offers features like weekly report organization, meeting minutes, content summarization, and text polishing.
