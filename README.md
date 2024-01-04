@@ -15,20 +15,20 @@ Windows 7/Windows 10/Windows 11 or higher + Office 2013/Office 2016/Office 2019/
 # AI Writing
 
 Empowering across various document types, whether in marketing, technical documentation, or internal communications, AI can effectively meet personalized needs, ensuring each document meets your expected standards.
-![Quickly organize weekly reports](writing.gif)
+<img alt="writing" src="writing.gif" title="AI创作"/>
 
 ## Document Generation
 Capable of creating various types of articles. Whether you need to write marketing copy, technical documents, or internal communication content, this plugin can easily handle it.
 
 ## Work Summaries
 Through intelligent means, quickly integrate your work achievements and data to generate structured weekly reports. This feature allows you to easily track work progress and share it with relevant teams or leaders. Simplifying the process, it saves your valuable time and effort significantly.
-![Quickly organize weekly reports](weekly_report.png)
+<img alt="weekly_report" src="weekly_report.png" title="weekly_report"/>
 
 ## Document Polishing
 Improving and optimizing articles according to your requirements and preferences to enhance their quality. In terms of language expression, logical coherence, or content fluency, the AI assistant can adjust the article based on your guidance, ensuring it aligns with your expectations and style, guaranteeing higher-quality drafts.
 ## Summary Generation
 The ability to automatically extract essential information from documents, intelligently recognizing and extracting key content to generate structured meeting summaries. This feature simplifies the process of composing meeting minutes, helping you quickly capture meeting highlights and organize them into easily readable and shareable formats, ensuring your meeting minutes are clearer and more accurate.
-![Automatic meeting summary generation](meeting_summary.png)
+<img alt="meeting_summary" src="meeting_summary.png" title="meeting_summary" />
 
 ## Content Expansion
 Using AI technology, it comprehends the context of text and provides new ideas, supplemental materials, or deeper insights when further content development is needed. This feature streamlines writing, helping you expand and enhance content more efficiently.
@@ -44,7 +44,7 @@ Recognize text within images and output it into Word documents. With this featur
 # AI Illustrations
 
 Generate corresponding images based on text descriptions within Office, eliminating the hassle of searching for images online.
-![AI Illustrations](text2image_main.png)
+<img alt="text2image" src="text2image_main.png" title="text2image"/>
 
 ## Example
 Keywords
@@ -55,7 +55,7 @@ Keywords
     Requirements: Warm colors, Cute style.
 
 Result after generation:
-![AI Illustrations](text2image_example1.png)
+<img alt="text2image" src="text2image_example1.png" title="text2image"/>
 
 # Word Functionality
 
@@ -63,11 +63,11 @@ Easily accomplish various Word functions through interaction with AI. No need to
 
 ## AI Proofreading/Correction
 Currently, mainstream input methods have predictive text, leading to occasional mistakes in Word. Word's built-in spell check for Chinese isn't very effective, whereas AI proofreading works wonders!
-![AI Proofreading](proofreading.gif)
+<img alt="proofreading" height="300" src="proofreading.gif" title="proofreading"/>
 
 ## Table Auto-Fit
 Easily resolve the issue of incomplete display of table content copied from Excel.
-![Table Auto-Fit](tables_auto_fit.gif)
+<img alt="tables_auto_fit" height="300" src="tables_auto_fit.gif" title="tables_auto_fit"/>
 
 ## Punctuation Replacement
 Quickly replace English punctuation (e.g., ',.<>') with Chinese punctuation (e.g., '，。《》'). This standardizes and unifies text across different contexts, enhancing document quality and readability.
@@ -109,7 +109,7 @@ win7/win10/win11或更高 + Office2013/Office2016/Office2019/Office 365
 
 # AI创作
 能够在多种文案类型中助您一臂之力，无论是市场营销、技术文档还是内部沟通，都能轻松应对。AI 能够根据个性化需求，有效提升文案质量，确保每篇文档都达到您的预期水准。
-<img alt="快速整理周报" src="writing.gif" title="AI创作"/>
+<img alt="AI创作" src="writing.gif" title="AI创作"/>
 
 ## 文案生成
 具备创作多种类型的文章的能力。无论您需要编写市场营销文案、技术文档还是内部沟通内容，这款插件都能轻松胜任。
