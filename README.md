@@ -11,74 +11,92 @@ OfficeAI Assistant is a plugin for Word that integrates AI capabilities into Mic
 ## Installation Environment
 Windows 7/Windows 10/Windows 11 or higher + Office 2013/Office 2016/Office 2019/Office 365
 
+# AI Writing
 
-# AI Writing and Polishing
+Empowering across various document types, whether in marketing, technical documentation, or internal communications, AI can effectively meet personalized needs, ensuring each document meets your expected standards.
+![Quickly organize weekly reports](writing.gif)
 
-Provides assistance in various types of copywriting, whether it's for marketing, technical documents, or internal communications. AI can enhance the quality of copywriting according to personalized requirements, ensuring each document meets your expected standards.
-## Copywriting Generation
-Capable of creating various types of articles. Whether you need to write marketing content, technical documents, or internal communication, this plugin handles it with ease.
+## Document Generation
+Capable of creating various types of articles. Whether you need to write marketing copy, technical documents, or internal communication content, this plugin can easily handle it.
 
-## Weekly Report Organization
-Quickly integrates your work results and data in an intelligent way to generate structured weekly reports. This feature allows you to easily understand work progress and conveniently share it with relevant teams or leaders. It significantly simplifies the process of creating weekly reports, saving you valuable time and effort.
+## Work Summaries
+Through intelligent means, quickly integrate your work achievements and data to generate structured weekly reports. This feature allows you to easily track work progress and share it with relevant teams or leaders. Simplifying the process, it saves your valuable time and effort significantly.
+![Quickly organize weekly reports](weekly_report.png)
 
-<img alt="Quickly organize weekly reports" height="300" src="images/weekly_report.png" title="Weekly Report Organization"/>
+## Document Polishing
+Improving and optimizing articles according to your requirements and preferences to enhance their quality. In terms of language expression, logical coherence, or content fluency, the AI assistant can adjust the article based on your guidance, ensuring it aligns with your expectations and style, guaranteeing higher-quality drafts.
+## Summary Generation
+The ability to automatically extract essential information from documents, intelligently recognizing and extracting key content to generate structured meeting summaries. This feature simplifies the process of composing meeting minutes, helping you quickly capture meeting highlights and organize them into easily readable and shareable formats, ensuring your meeting minutes are clearer and more accurate.
+![Automatic meeting summary generation](meeting_summary.png)
 
-## Article Polishing
-Improves and optimizes articles according to your needs and preferences, enhancing their quality. Whether it's language expression, logical coherence, or content fluidity, the AI Assistant can adjust based on your guidance to better align the article with your expectations and style, ensuring a higher quality final draft.
-## Meeting Minutes Generation
-Automatically extracts important information from documents, intelligently identifying and summarizing key content to create structured meeting minutes. This feature greatly simplifies the process of writing meeting minutes, helping you quickly capture the main points and organize them into a readable and shareable format, making your meeting minutes clearer and more accurate.
-
-<img alt="Automatically generate meeting summaries" height="300"  src="images/meeting_summary.gif" title="Meeting Minutes" />
-
-## Article Continuation
-Utilizes AI technology to understand the context of the text and provides new ideas, supplementary materials, or deeper insights for further content development. This feature makes document writing more efficient and comprehensive, helping you quickly expand and perfect the content.
+## Content Expansion
+Using AI technology, it comprehends the context of text and provides new ideas, supplemental materials, or deeper insights when further content development is needed. This feature streamlines writing, helping you expand and enhance content more efficiently.
 ## Language Translation
-Supports translation between dozens of languages, including but not limited to English, Chinese, Japanese, Korean, and French. Whether you need to translate text into another language or from another language into your required language, this plugin provides fast and accurate translation services. This feature offers a convenient solution for cross-language communication, helping you handle multilingual texts more easily.
+Supporting translation between dozens of languages, including but not limited to English, Chinese, Japanese, Korean, and French. Whether you need to translate text into other languages or vice versa, this plugin provides fast and accurate translation services, facilitating cross-language communication and handling multilingual text effortlessly.
 ## Intelligent Interaction
-You can interactively dialogue with the assistant, asking questions about document processing, seeking help or advice, acquiring information on specific topics, or clarifying doubts. This intelligent mode of interaction makes it more convenient to access needed information, quickly solve problems, and complete document processing tasks.
+Engage in interactive conversations with the assistant, inquire about document handling queries, seek help or suggestions, obtain information on specific topics, or resolve doubts interactively. This intelligent interaction method allows you to obtain necessary information quickly, solve problems promptly, and complete document processing tasks.
 ## Writing Suggestions
-Whether in copywriting, content creation, or creative expression, the assistant offers targeted suggestions and tips through intelligent analysis and recommendations. This feature helps improve the quality of your copy, enhances content appeal, and even sparks creative inspiration, making you more effective in writing and creative endeavors.
+In document writing, content creation, or creative expression, the assistant provides targeted suggestions and tips through intelligent analysis and recommendations. This feature helps improve document quality, enhance content appeal, and even spark creative inspiration, making you more productive in writing and ideation.
 ## Image-to-Text Conversion
-Recognizes text in images and outputs it to a Word document. With this feature, you can import images containing text into the document, and the assistant will automatically recognize the text in the images and accurately convert it into editable text, facilitating further editing or use in Word.
+Recognize text within images and output it into Word documents. With this feature, you can import images containing text into documents. The assistant will accurately recognize the text content within the images, converting it into editable text, facilitating further editing or use in Word.
 
-# Word Features
+# AI Illustrations
 
-Easily accomplish various functions in Word through AI interaction, without the need to search for specific functions or remember complex VBA macro codes. This interactive operation provides a more intuitive and user-friendly interface, making task completion more convenient and efficient. Whether for beginners or experienced users, this intelligent usage experience makes document editing more enjoyable and efficient, saving a lot of time and effort.
-## Punctuation One-Click Replacement
-Quickly replaces English punctuation marks (e.g., ',.<>') in the document with Chinese punctuation marks (e.g., '，。《》'). This standardizes the copy in different contexts, improving the overall quality and readability of the document.
+Generate corresponding images based on text descriptions within Office, eliminating the hassle of searching for images online.
+![AI Illustrations](text2image_main.png)
+
+## Example
+Keywords
+
+    Create a healing illustration with a little cat as the protagonist.
+    Main Elements: Kitten, Yarn Ball
+    Background: Minimalist, Clean
+    Requirements: Warm colors, Cute style.
+
+Result after generation:
+![AI Illustrations](text2image_example1.png)
+
+# Word Functionality
+
+Easily accomplish various Word functions through interaction with AI. No need to search for specific functions' locations or memorize complex VBA macro codes. This interactive operation provides users with a more intuitive and user-friendly interface, making tasks more convenient and efficient. This intelligent usage experience makes document editing more enjoyable and efficient, saving significant time and effort for both beginners and experienced users.
+
+## AI Proofreading/Correction
+Currently, mainstream input methods have predictive text, leading to occasional mistakes in Word. Word's built-in spell check for Chinese isn't very effective, whereas AI proofreading works wonders!
+![AI Proofreading](proofreading.gif)
+
+## Table Auto-Fit
+Easily resolve the issue of incomplete display of table content copied from Excel.
+![Table Auto-Fit](tables_auto_fit.gif)
+
+## Punctuation Replacement
+Quickly replace English punctuation (e.g., ',.<>') with Chinese punctuation (e.g., '，。《》'). This standardizes and unifies text across different contexts, enhancing document quality and readability.
 
 ## Remove Blank Lines
-Rapidly removes large sections of blank lines in the document, making the format clearer and neater. This feature allows you to eliminate unnecessary blank lines with one click, saving time and ensuring a more standardized document format.
-
-<img alt="Remove entire blank lines" height="300" src="images/removebreaks.gif" title="Remove Entire Blank Lines"/>
+Quickly remove extensive empty lines in documents, making the document format clearer and neater.
 
 ## Set Background Color
-Sets a specified background color for the current document. Through this function, you can choose the desired color and apply it to the background of the entire document. This action makes the document more personalized and visually appealing, making your document stand out and easier to distinguish.
+Set a specified background color for the current document, providing a personalized and visually appealing document.
 
 ## Set Background Image
-Quickly set a background image for the document to enhance work efficiency.
+Quickly set a background image for the document to improve work efficiency.
 
 ## Select Entire Table
-Solves the problem of incomplete manual selection when selecting an entire table in a Word document. With this feature, you can efficiently select all the contents of the required table, avoiding incomplete selections that might occur with manual operations, improving work efficiency and ensuring the accuracy of the entire table's selection.
+Solved the issue of incomplete selection when attempting to select the entire table in a Word document.
 
-## Insert Non-Distorting Images
-Inserts images into the current cell of a table, adapting to the size of the cell, and solving the issue of tables expanding and affecting the appearance each time an image is inserted.
+## Insert Non-deformable Images in Cells
+Insert images into cells that adapt to the cell size without distorting the table.
 
-<img alt="Insert non-distorting images into cells" height="300" src="images/table_insert_pic.gif" title="Insert Non-Distorting Images into Cells"/>
+## Repeat Table Titles on Each Page
+Add titles to tables on each page, ensuring clear presentation of table information on multi-page documents.
 
-## Add Headers Across Pages
-Adds titles to tables on each page. This operation ensures that each page of the table clearly presents title information, making the document more structured and readable, and facilitating user understanding of multi-page table content. This feature greatly enhances the overall organization and visual effect of the document, making tables clearer and more comprehensible when displayed across pages.
+## Delete Blank Pages
+Effortlessly remove extra blank pages created due to table formatting, maintaining document neatness and improving readability, while avoiding unnecessary printing of blank pages.
 
-<img alt="Show titles on every page of the table" height="300" src="images/repeat_table_title.gif" title="Add Headers Across Pages"/>
+## Insert Text Before Tables
+Insert text before tables, solving the problem of adding titles or descriptions directly in front of the table.
 
-##  Delete Blank Pages
-Easily removes extra blank pages caused by table formatting, keeping the document layout neat and enhancing readability while avoiding printing unnecessary blank pages.
-
-## Insert Text Before Table
-Enables the insertion of characters before a table, effectively solving the problem of being unable to directly add titles or descriptions before a table. This feature allows users to insert text, such as titles or descriptions, before tables, providing clearer context for the table content and enhancing document readability and structure. This operation simplifies editing content around the table, making it easier for users to manage the layout and structure of tables in the document.
-
-## Remove Header Line
-Quickly deletes the horizontal line in the header. This operation enables users to easily remove unwanted lines in the header, enhancing the overall appearance and professionalism of the document. This convenient editing feature saves users' time, making the page layout clearer and tidier, and ensuring the aesthetic and consistency of the document's appearance.
+## Remove Header Underlines
+Quickly remove horizontal lines in the header, enhancing the document's appearance and professionalism.
 
 # Others
 ## Contact Us
@@ -92,23 +110,22 @@ OfficeAI助手是Word的插件，它将AI功能集成到Microsoft Office 中。�
 win7/win10/win11或更高 + Office2013/Office2016/Office2019/Office 365
 
 
-# AI创作润色
-
+# AI创作
 能够在多种文案类型中助您一臂之力，无论是市场营销、技术文档还是内部沟通，都能轻松应对。AI 能够根据个性化需求，有效提升文案质量，确保每篇文档都达到您的预期水准。
+<img alt="快速整理周报" src="writing.gif" title="AI创作"/>
+
 ## 文案生成
 具备创作多种类型的文章的能力。无论您需要编写市场营销文案、技术文档还是内部沟通内容，这款插件都能轻松胜任。
 
-## 周报整理
+## 工作总结
 通过智能化的方式，快速整合您的工作成果和数据，生成结构化的周报，让您轻松了解工作进展，并能够便捷地分享给相关团队或领导。这项功能大大简化了周报制作的流程，为您节省宝贵的时间和精力。
-
-<img alt="快速整理周报" height="300" src="images/weekly_report.png" title="周报整理"/>
+<img alt="快速整理周报" src="weekly_report.png" title="周报整理"/>
 
 ## 文章润色
 根据您的需求和偏好，对文章进行改善和优化，以提升其质量。无论是在语言表达、逻辑连贯性还是内容流畅度方面，AI 助手能够根据您的指导进行调整，使得文章更符合您的期望和风格，确保最终产出的文稿质量更高。
 ## 纪要生成
 自动提取文档重要信息的能力，能够智能地从文档中识别并提取关键内容，然后生成结构化的会议纪要。这项功能大大简化了会议纪要的撰写过程，帮助您快速捕捉会议中的要点，并将其整理成易于阅读和分享的格式，让您的会议纪要更加清晰、准确。
-
-<img alt="自动生成会议纪要" height="300"  src="images/meeting_summary.gif" title="会议纪要" />
+<img alt="自动生成会议纪要" src="meeting_summary.png" title="会议纪要" />
 
 ## 文章续写
 通过 AI 技术，它能够理解文本的语境，并在您需要进一步发展内容时，为您提供新的想法、补充资料或更深层次的见解，从而丰富文档内容。这项功能使得文稿编写更为高效和全面，帮助您更快地完成内容的拓展和完善。
@@ -121,16 +138,41 @@ win7/win10/win11或更高 + Office2013/Office2016/Office2019/Office 365
 ## 图转文字
 识别图片中的文字并将其输出到 Word 文档中。通过这项功能，您可以将包含文字的图片导入到文档中，助手会自动识别图片中的文字内容，并将其准确地转换成可编辑的文本，方便您在 Word 中进一步编辑或使用。
 
+# AI插画
+
+在Office用文字描述即可生成对应的图片，免去上网找图片的烦恼
+<img alt="AI插画" src="text2image_main.png" title="AI插画"/>
+
+## 示例
+关键字
+
+    画一幅小猫咪为主角的治愈系插画。
+    主体：小猫、毛线球
+    背景：极简、干净
+    要求： 颜色温暖，画风可爱。
+
+生成后效果如下:
+<img alt="AI插画" src="text2image_example1.png" title="AI插画"/>
+
 # Word功能
 
 通过与 AI 互动，轻松完成 Word 中的各项功能，无需费力搜索特定功能的位置，也不必记忆复杂的 VBA 宏代码。这种交互式操作为用户提供了更直观、更友好的界面，使得完成各项任务变得更加便捷和高效。无论是对于初学者还是经验丰富的用户，这种智能化的使用体验都让文档编辑更加愉快和高效，节省了大量的时间和精力。
+
+## AI纠错/校对
+目前主流的输入法带联想输入，导致word中错别字时有发生，word中自带的拼写检查对中文的效果比较鸡肋，使用AI纠错效果倍好！
+<img alt="AI纠错" height="300" src="proofreading.gif" title="AI纠错"/>
+
+## 表格自动调整
+轻松解决excel复制过来的表格内容显示不全的问题
+<img alt="表格自动调整" height="300" src="tables_auto_fit.gif" title="表格自动调整"/>
+
+
 ## 标点一键替换
 快速将文档中的英文标点符号（例如：',.<>'）替换为中文标点符号（例如：'，。《》'）。这使得文案在不同语境下更加规范和统一，提高了文档的整体质量和可读性。
 
 ## 删除全文空行
 快速删除文档中产生的大段空行，使得文档格式更加清晰整洁。这项功能让您能够一键去除多余的空行，节省时间并确保文档呈现更为规范的格式。
-
-<img alt="全文删除空行" height="300" src="images/removebreaks.gif" title="全文删除空行"/>
+<img alt="全文删除空行" height="300" src="removebreaks.gif" title="全文删除空行"/>
 
 ## 设置背景颜色
 为当前文档设置指定的背景颜色。通过这个功能，您可以选择所需的颜色，然后将其应用到整个文档的背景中。这样的操作能够使文档更具个性化和视觉吸引力，让您的文档更加突出和易于区分。
@@ -141,13 +183,11 @@ win7/win10/win11或更高 + Office2013/Office2016/Office2019/Office 365
 
 ## 插入不变形图片
 向表格当前单元格插入图片，适应单元格大小的图片，解决每次插入图片时导致表格拉大，影响外观的问题。
-
-<img alt="单元格插入不变形图片" height="300" src="images/table_insert_pic.gif" title="单元格插入不变形图片"/>
+<img alt="单元格插入不变形图片" height="300" src="table_insert_pic.gif" title="单元格插入不变形图片"/>
 
 ## 跨页添加表头
 为每一页的表格添加标题。这一操作使得每个表格页面都能清晰地呈现标题信息，让文档更具结构性和可读性，方便用户阅读和理解多页表格内容。这项功能极大地提升了文档的整体组织和可视化效果，使得表格在分页显示时更为清晰明了。
-
-<img alt="表格每页都显示标题" height="300" src="images/repeat_table_title.gif" title="表格每页都显示标题"/>
+<img alt="表格每页都显示标题" height="300" src="repeat_table_title.gif" title="表格每页都显示标题"/>
 
 ## 删除空白页
 轻松移除因表格排版而产生的多余空白页，保持文档排版整洁，提升文档可读性,同时避免多打印出空白的页
