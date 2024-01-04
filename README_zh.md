@@ -5,30 +5,30 @@
 
 [![Release](https://img.shields.io/github/release/office-sec/OfficeAI.svg)](https://github.com/office-sec/OfficeAI/releases)
 
+# OfficeAI助手简介
+
 ## 功能简介
 OfficeAI助手是Word的插件，它将AI功能集成到Microsoft Office 中。它帮解决"打勾（√）符号怎么输入?"、"怎么在插入表格前添加文字?"Office功能太复杂不知道哪里找的问题。在AI助手中您只需要告诉助手你要做什么，AI自动帮您完成，同时AI助手具备周报整理、会议纪要，内容总结、润色等功能。
 
 ## 安装环境
 win7/win10/win11或更高 + Office2013/Office2016/Office2019/Office 365
 
-
-# AI创作润色
-
+# AI创作
 能够在多种文案类型中助您一臂之力，无论是市场营销、技术文档还是内部沟通，都能轻松应对。AI 能够根据个性化需求，有效提升文案质量，确保每篇文档都达到您的预期水准。
+<img alt="快速整理周报" src="writing.gif" title="AI创作"/>
+
 ## 文案生成
 具备创作多种类型的文章的能力。无论您需要编写市场营销文案、技术文档还是内部沟通内容，这款插件都能轻松胜任。
 
-## 周报整理
+## 工作总结
 通过智能化的方式，快速整合您的工作成果和数据，生成结构化的周报，让您轻松了解工作进展，并能够便捷地分享给相关团队或领导。这项功能大大简化了周报制作的流程，为您节省宝贵的时间和精力。
-
-<img alt="快速整理周报" height="300" src="images/weekly_report.png" title="周报整理"/>
+<img alt="快速整理周报" src="weekly_report.png" title="周报整理"/>
 
 ## 文章润色
 根据您的需求和偏好，对文章进行改善和优化，以提升其质量。无论是在语言表达、逻辑连贯性还是内容流畅度方面，AI 助手能够根据您的指导进行调整，使得文章更符合您的期望和风格，确保最终产出的文稿质量更高。
 ## 纪要生成
 自动提取文档重要信息的能力，能够智能地从文档中识别并提取关键内容，然后生成结构化的会议纪要。这项功能大大简化了会议纪要的撰写过程，帮助您快速捕捉会议中的要点，并将其整理成易于阅读和分享的格式，让您的会议纪要更加清晰、准确。
-
-<img alt="自动生成会议纪要" height="300"  src="images/meeting_summary.gif" title="会议纪要" />
+<img alt="自动生成会议纪要" src="meeting_summary.png" title="会议纪要" />
 
 ## 文章续写
 通过 AI 技术，它能够理解文本的语境，并在您需要进一步发展内容时，为您提供新的想法、补充资料或更深层次的见解，从而丰富文档内容。这项功能使得文稿编写更为高效和全面，帮助您更快地完成内容的拓展和完善。
@@ -41,16 +41,41 @@ win7/win10/win11或更高 + Office2013/Office2016/Office2019/Office 365
 ## 图转文字
 识别图片中的文字并将其输出到 Word 文档中。通过这项功能，您可以将包含文字的图片导入到文档中，助手会自动识别图片中的文字内容，并将其准确地转换成可编辑的文本，方便您在 Word 中进一步编辑或使用。
 
+# AI插画
+
+在Office用文字描述即可生成对应的图片，免去上网找图片的烦恼
+<img alt="AI插画" src="text2image_main.png" title="AI插画"/>
+
+## 示例
+关键字
+
+    画一幅小猫咪为主角的治愈系插画。
+    主体：小猫、毛线球
+    背景：极简、干净
+    要求： 颜色温暖，画风可爱。
+
+生成后效果如下:
+<img alt="AI插画" src="text2image_example1.png" title="AI插画"/>
+
 # Word功能
 
 通过与 AI 互动，轻松完成 Word 中的各项功能，无需费力搜索特定功能的位置，也不必记忆复杂的 VBA 宏代码。这种交互式操作为用户提供了更直观、更友好的界面，使得完成各项任务变得更加便捷和高效。无论是对于初学者还是经验丰富的用户，这种智能化的使用体验都让文档编辑更加愉快和高效，节省了大量的时间和精力。
+
+## AI纠错/校对
+目前主流的输入法带联想输入，导致word中错别字时有发生，word中自带的拼写检查对中文的效果比较鸡肋，使用AI纠错效果倍好！
+<img alt="AI纠错" height="300" src="proofreading.gif" title="AI纠错"/>
+
+## 表格自动调整
+轻松解决excel复制过来的表格内容显示不全的问题
+<img alt="表格自动调整" height="300" src="tables_auto_fit.gif" title="表格自动调整"/>
+
+
 ## 标点一键替换
 快速将文档中的英文标点符号（例如：',.<>'）替换为中文标点符号（例如：'，。《》'）。这使得文案在不同语境下更加规范和统一，提高了文档的整体质量和可读性。
 
 ## 删除全文空行
 快速删除文档中产生的大段空行，使得文档格式更加清晰整洁。这项功能让您能够一键去除多余的空行，节省时间并确保文档呈现更为规范的格式。
-
-<img alt="全文删除空行" height="300" src="images/removebreaks.gif" title="全文删除空行"/>
+<img alt="全文删除空行" height="300" src="removebreaks.gif" title="全文删除空行"/>
 
 ## 设置背景颜色
 为当前文档设置指定的背景颜色。通过这个功能，您可以选择所需的颜色，然后将其应用到整个文档的背景中。这样的操作能够使文档更具个性化和视觉吸引力，让您的文档更加突出和易于区分。
@@ -61,13 +86,11 @@ win7/win10/win11或更高 + Office2013/Office2016/Office2019/Office 365
 
 ## 插入不变形图片
 向表格当前单元格插入图片，适应单元格大小的图片，解决每次插入图片时导致表格拉大，影响外观的问题。
-
-<img alt="单元格插入不变形图片" height="300" src="images/table_insert_pic.gif" title="单元格插入不变形图片"/>
+<img alt="单元格插入不变形图片" height="300" src="table_insert_pic.gif" title="单元格插入不变形图片"/>
 
 ## 跨页添加表头
 为每一页的表格添加标题。这一操作使得每个表格页面都能清晰地呈现标题信息，让文档更具结构性和可读性，方便用户阅读和理解多页表格内容。这项功能极大地提升了文档的整体组织和可视化效果，使得表格在分页显示时更为清晰明了。
-
-<img alt="表格每页都显示标题" height="300" src="images/repeat_table_title.gif" title="表格每页都显示标题"/>
+<img alt="表格每页都显示标题" height="300" src="repeat_table_title.gif" title="表格每页都显示标题"/>
 
 ## 删除空白页
 轻松移除因表格排版而产生的多余空白页，保持文档排版整洁，提升文档可读性,同时避免多打印出空白的页
@@ -79,6 +102,6 @@ win7/win10/win11或更高 + Office2013/Office2016/Office2019/Office 365
 # 其它
 
 ## 联系我们
+<img alt="微信联系我们" height="150" src="contactWX.png" title="微信" width="150"/>
+<img alt="QQ联系我们" height="150" src="contactQQ.png" title="微信" width="150"/>
 
-<img alt="微信联系我们" height="150" src="images/contactWX.png" title="微信" width="150"/>
-<img alt="QQ联系我们" height="150" src="images/contactQQ.png" title="微信" width="150"/>
