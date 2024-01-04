@@ -15,7 +15,7 @@ win7/win10/win11或更高 + Office2013/Office2016/Office2019/Office 365
 
 # AI创作
 能够在多种文案类型中助您一臂之力，无论是市场营销、技术文档还是内部沟通，都能轻松应对。AI 能够根据个性化需求，有效提升文案质量，确保每篇文档都达到您的预期水准。
-<img alt="快速整理周报" src="writing.gif" title="AI创作"/>
+<img alt="AI创作" src="writing.gif" title="AI创作"/>
 
 ## 文案生成
 具备创作多种类型的文章的能力。无论您需要编写市场营销文案、技术文档还是内部沟通内容，这款插件都能轻松胜任。
@@ -66,7 +66,8 @@ win7/win10/win11或更高 + Office2013/Office2016/Office2019/Office 365
 <img alt="AI纠错" height="300" src="proofreading.gif" title="AI纠错"/>
 
 ## 表格自动调整
-轻松解决excel复制过来的表格内容显示不全的问题
+轻松解决excel复制过来的表格内容显示不全的问题。
+
 <img alt="表格自动调整" height="300" src="tables_auto_fit.gif" title="表格自动调整"/>
 
 
@@ -104,4 +105,5 @@ win7/win10/win11或更高 + Office2013/Office2016/Office2019/Office 365
 ## 联系我们
 <img alt="微信联系我们" height="150" src="contactWX.png" title="微信" width="150"/>
 <img alt="QQ联系我们" height="150" src="contactQQ.png" title="微信" width="150"/>
+
 
