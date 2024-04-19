@@ -16,7 +16,7 @@ WordAI UI
 
 ExcelAI UI
 
-![ExcelAI ](excelai_main.png)
+![ExcelAI ](excelai.gif)
 
 ## Installation Requirements
 Windows 7/10/11 or later + Office 2013/2016/2019/Office 365
@@ -205,7 +205,7 @@ WordAI界面
 
 ExcelAI界面
 
-<img alt="ExcelAI主界面" src="excelai_main.png" title="ExcelAI主界面"/>
+<img alt="ExcelAI主界面" src="excelai.gif" title="ExcelAI主界面"/>
 
 ## 安装环境
 win7/win10/win11或更高 + Office2013/Office2016/Office2019/Office 365
