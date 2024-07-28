@@ -16,7 +16,7 @@ WordAI UI
 
 ExcelAI UI
 
-![ExcelAI ](excelai.gif)
+![ExcelAI ](excelai.png)
 
 ## Installation Requirements
 Windows 7/10/11 or later + Office 2013/2016/2019/Office 365
