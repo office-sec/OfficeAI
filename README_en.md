@@ -1,7 +1,7 @@
 # OfficeAI Assistant Introduction
 
 ## Function Overview
-The OfficeAI Assistant is an AI plugin for Microsoft Office/WPS, designed to help with questions like "How do I input a checkmark (√) symbol?", "How do I add text before inserting a table?", or "Which formula should I use?" It can tackle complex issues you're unsure about. Just tell the assistant what you need or what calculations you want, and AI will automatically complete the corresponding function or formula for you. Additionally, the AI assistant features functions such as compiling weekly reports, meeting minutes, content summaries, and proofreading.
+OfficeAI Assistant is an AI-powered office tool designed specifically for Microsoft Office and WPS users. Whether you're trying to insert a checkmark (√), wondering how to add text before inserting a table, or figuring out which formula to use, this AI office assistant offers quick and accurate solutions. With simple commands, the ExcelAI plugin can automatically handle complex formula calculations and function selection. Meanwhile, the WordAI plugin is packed with features like organizing weekly reports, drafting meeting minutes, summarizing content, and refining documents. In short, OfficeAI Assistant will greatly enhance your productivity, making everyday tasks easier and more efficient.
 
 WordAI UI
 
