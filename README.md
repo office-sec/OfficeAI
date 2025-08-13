@@ -4,9 +4,9 @@
 > In Word, you can directly chat with AI in the right panel and insert results into documents with one click; in Excel, you only need natural language commands to automatically handle complex functions and chart generation.  
 > **Currently offering free usage quota, lightweight setup, install and use immediately, significantly improving office productivity.**
 
-[![Platform](https://img.shields.io/badge/Platform-Windows-blue)](https://office-ai.net) [![Free to Use](https://img.shields.io/badge/Price-Free-green)] 
+[![Platform](https://img.shields.io/badge/Platform-Windows-blue)](https://office-ai.net) [![Free to Use](https://img.shields.io/badge/Price-Free-green)](https://office-ai.net)
 
-**README Multi-language Version**: [English](/README_en.md) | [中文](/README_zh.md)
+**README Multi-language Version**: [English](/README.md) | [中文](/README_zh.md)
 
 ![OfficeAI Banner](screenshot/新增-1/offica-ai%20BANNER.png)
 ---
@@ -140,7 +140,7 @@ Users can freely configure API Keys for flexible access.
 
 **System Requirements**: Windows 7/10/11 or later + Office 2013/2016/2019/Office 365
 
-1. ⬇️ Download plugin installation package: [Install Now](https://office-ai.net/feature/wordai/)  
+1. ⬇️ Download plugin installation package: [Install Now](https://office-ai.net)  
 2. 📦 Extract and double-click to run the installer  
 3. 🧑‍💻 Open Word or Excel or WPS, the plugin will load automatically  
 4. ✨ Plugin entry is located in the top toolbar, click to start your intelligent office journey!
@@ -149,7 +149,7 @@ Users can freely configure API Keys for flexible access.
 
 ## Usage Guide
 
-Please refer to the complete usage tutorial 👉 [https://github.com/office-sec/OfficeAI/wiki/3-WordAI-Plugin]
+Please refer to the complete usage tutorial 👉 [https://github.com/office-sec/OfficeAI/wiki]
 
 📌 **Tip**: The plugin's right-side floating window supports continuous dialogue and can embed local content context
 
@@ -159,7 +159,6 @@ Please refer to the complete usage tutorial 👉 [https://github.com/office-sec/
 
 - 📄 [Product Website](https://office-ai.net)  
 - 📚 [GitHub Wiki Detailed Documentation](https://github.com/office-sec/OfficeAI/wiki)
-- 🔗 [Terms of Service & Privacy Policy](https://office-ai.net/policy)
 
 ---
 
