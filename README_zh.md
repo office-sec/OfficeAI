@@ -4,9 +4,9 @@
 > 在 Word 中，你可直接在右侧面板与 AI 对话并一键将结果插入文档；在 Excel 中，仅需自然语言命令即可自动处理复杂函数与图表生成。  
 > **现阶段提供免费额度使用，轻量上手、即装即用，大幅提升办公效率。**
 
-[![Platform](https://img.shields.io/badge/Platform-Windows-blue)](https://office-ai.net) [![Free to Use](https://img.shields.io/badge/Price-Free-green)] 
+[![Platform](https://img.shields.io/badge/Platform-Windows-blue)](https://office-ai.net) [![Free to Use](https://img.shields.io/badge/Price-Free-green)](https://office-ai.net)
 
-**README多语言版本**：[English](/README_en.md) | [中文](/README_zh.md)
+**README多语言版本**：[English](/README.md) | [中文](/README_zh.md)
 
 ![OfficeAI Banner](screenshot/新增-1/offica-ai%20BANNER.png)
 ---
@@ -140,7 +140,7 @@ OfficeAI 在 Excel/WPS 插件中提供一整套高效且在办公场景常见的
 
 **系统要求**：Windows 7/10/11 或更高版本 + Office 2013/2016/2019/Office 365
 
-1. ⬇️ 下载插件安装包：[立即安装](https://office-ai.net/feature/wordai/)  
+1. ⬇️ 下载插件安装包：[立即安装](https://office-ai.net)  
 2. 📦 解压并双击运行安装程序  
 3. 🧑‍💻 打开 Word 或 Excel 或WPS，插件将自动加载  
 4. ✨ 插件入口位于顶部工具栏，点击开始智能办公之旅！
@@ -149,7 +149,7 @@ OfficeAI 在 Excel/WPS 插件中提供一整套高效且在办公场景常见的
 
 ## 使用指南
 
-请参考完整使用教程 👉 [https://github.com/office-sec/OfficeAI/wiki/3-WordAI-Plugin]
+请参考完整使用教程 👉 [https://github.com/office-sec/OfficeAI/wiki]
 
 📌 **提示**：插件右侧浮窗支持持续对话，可嵌入本地内容上下文
 
@@ -159,7 +159,6 @@ OfficeAI 在 Excel/WPS 插件中提供一整套高效且在办公场景常见的
 
 - 📄 [产品官网](https://office-ai.net)  
 - 📚 [GitHub Wiki 详细文档](https://github.com/office-sec/OfficeAI/wiki)
-- 🔗 [使用协议与隐私政策](https://office-ai.net/policy)
 
 ---
 
