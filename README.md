@@ -1,195 +1,192 @@
-# OfficeAI
+# 🚀 OfficeAI
 
-[English](/README_en.md) | [中文](/README_zh.md) 
+> OfficeAI is an AI assistant plugin integrated into Microsoft Office and WPS, enabling seamless interaction with large language models for writing, polishing, translation, formatting, and data analysis in Word and Excel.  
+> In Word, you can directly chat with AI in the right panel and insert results into documents with one click; in Excel, you only need natural language commands to automatically handle complex functions and chart generation.  
+> **Currently offering free usage quota, lightweight setup, install and use immediately, significantly improving office productivity.**
 
+[![Platform](https://img.shields.io/badge/Platform-Windows-blue)](https://office-ai.net) [![Free to Use](https://img.shields.io/badge/Price-Free-green)] 
 
-[![Release](https://img.shields.io/github/release/office-sec/OfficeAI.svg)](https://github.com/office-sec/OfficeAI/releases)  [![website](https://img.shields.io/badge/website-OfficeAI-red)](https://www.office-ai.cn) [![QQ](https://img.shields.io/badge/QQ-1346649874-blue?logo=tencentqq)](images/contactQQ.png)  [![wechat](https://img.shields.io/badge/wechat-cleanmacro2021-blue?logo=wechat)](images/contactWX.png)
+**README Multi-language Version**: [English](/README_en.md) | [中文](/README_zh.md)
 
-# OfficeAI Assistant Introduction
+![OfficeAI Banner](screenshot/新增-1/offica-ai%20BANNER.png)
+---
 
-## Function Overview
-OfficeAI Assistant is an AI-powered office tool designed specifically for Microsoft Office and WPS users. Whether you're trying to insert a checkmark (√), wondering how to add text before inserting a table, or figuring out which formula to use, this AI office assistant offers quick and accurate solutions. With simple commands, the ExcelAI plugin can automatically handle complex formula calculations and function selection. Meanwhile, the WordAI plugin is packed with features like organizing weekly reports, drafting meeting minutes, summarizing content, and refining documents. In short, OfficeAI Assistant will greatly enhance your productivity, making everyday tasks easier and more efficient.
+## 📚 Table of Contents
 
-WordAI UI
+- [About OfficeAI](#about-officeai)  
+- [Core Features](#core-features)  
+  - [Word AI 📝](#word-ai-)  
+  - [Excel AI 📊](#excel-ai-)  
+- [Supported LLMs](#supported-llms)  
+- [Installation](#installation)  
+- [Usage Guide](#usage-guide)  
+- [Resources](#resources)  
+- [Development Roadmap](#development-roadmap)  
+- [Contributing](#contributing)  
+- [Contact Us](#contact-us)
 
-![WordAI](wordai.png)
+---
 
-ExcelAI UI
+## About OfficeAI
 
-![ExcelAI ](excelai.gif)
+OfficeAI integrates seamlessly as a plugin into Microsoft Office and WPS, supporting intelligent document and spreadsheet processing. **Word AI** provides AI chat, writing, polishing, proofreading, intelligent formatting, and translation features, making document creation more efficient; **Excel AI** offers AI dialogue, formula generation, data analysis, and chart visualization features, making data processing more intelligent. You only need natural language to generate content, analyze data, and more—**no formulas, no templates required**.
 
-## Installation Requirements
-Windows 7/10/11 or later + Office 2013/2016/2019/Office 365
+---
 
-# AI Authoring
+## Core Features
 
-It can lend a hand in various types of document creation, whether it's marketing, technical documentation, or internal communication. AI can enhance document quality based on personalized requirements, ensuring that each document meets your expected standards.
-![Quickly compile weekly reports](writing.gif)
+### Word AI 📝
+(Word AI is OfficeAI's highlight feature)
 
-## Document Generation
-Capable of creating various types of articles. Whether you need to write marketing copy, technical documentation, or internal communication content, this plugin can handle it effortlessly.
+OfficeAI provides a comprehensive set of efficient and common AI features in Word/WPS plugins:
 
-## Work Summarization
-Through intelligent means, it quickly consolidates your work achievements and data, generating structured weekly reports that allow you to easily understand work progress and share it with relevant teams or leaders. This function greatly simplifies the process of report production, saving you valuable time and effort.
-![Quickly compile weekly reports](weekly_report.png)
+#### 💬 **AI Dialogue & Writing**
+- **Natural AI Model Dialogue**: Engage in free multi-turn conversations with AI in Word/WPS. You can have multi-turn dialogues with popular large models. AI's response results can be exported to documents with one click or copied to clipboard
+- **AI Writing**: You can customize prompts and save them as "Common Modes", call them with one click in any document to complete automatic continuation, summary extraction, language conversion and other tasks, supporting marketing copy, technical documentation, internal communication and various other types of article creation
+- **AI Navigation**: Quickly activate ChatGPT, Claude, Gemini and other popular model dialogue entrances in Word/WPS, **no need to switch windows**, click and use immediately!
 
-## Document Proofreading
-Improves and optimizes articles according to your needs and preferences to enhance their quality. Whether it's language expression, logical coherence, or content fluency, the AI assistant can adjust the document according to your guidance, ensuring that the final output meets your expectations and style, guaranteeing higher quality manuscripts.
+  **Dialogue & Writing Interface Demo**
+  ![AI Writing Feature Demo](screenshot/新增-1/writing_compressed-1.gif)
 
-## Minutes Generation
-Automatically extracts important information from documents, intelligently identifies and extracts key content from documents, then generates structured meeting minutes. This function greatly simplifies the process of writing meeting minutes, helping you quickly capture the key points of the meeting and organize them into a format that is easy to read and share, making your meeting minutes clearer and more accurate.
-![Automatically generate meeting minutes](meeting_summary.png)
+#### 🎨 **Intelligent Formatting & Layout**
+- **One-click Formatting**: Apply professional formatting with one click. Built-in multiple templates, support custom editing, users can perform efficient one-click formatting tasks, and can adjust effects in real-time through natural language dialogue, automatically generate outline directories. Users can also create custom templates and perform one-click formatting
+- **Formatting Template Adjustment**: Support template copying, editing, customization, can set outline levels, Western fonts and other advanced formats
 
-## Content Extension
-Through AI technology, it understands the context of the text and provides you with new ideas, supplementary materials, or deeper insights when you need to further develop content, enriching document content. This feature makes manuscript writing more efficient and comprehensive, helping you expand and improve content more quickly.
+  **Intelligent Formatting & Layout Interface Demo**
+  ![Intelligent Formatting Feature Demo](screenshot/新增-1/layout_compressed.gif)
 
-## Language Translation
-Supports translation between dozens of languages, including but not limited to English, Chinese, Japanese, Korean, and French. Whether you need to translate text into other languages or translate other languages into the language you need, this plugin can provide fast and accurate translation services. This feature provides a convenient solution for cross-language communication, helping you handle multilingual texts more easily.
+#### ✍️ **Document Optimization & Processing**
+- **Proofreading / Polishing**: Select text content (or entire document), Office AI can break through large model context length limitations, supporting long-text proofreading. AI automatically finds and corrects typos, grammar errors, etc.
+- **AI Continuation**: Select text content, AI intelligently continues writing articles, results displayed in blue font, can confirm application or undo
+- **AI Translation**: Support multi-language translation, built-in translation modes, can also customize translation modes
 
-## Intelligent Interaction
-You can interact with the assistant through interactive dialogue, ask questions about document processing, seek help or advice, and obtain information on specific topics or answers to questions. This intelligent interaction method allows you to obtain the information you need more conveniently, quickly solve problems, and complete document processing tasks.
+  **Document Optimization & Processing Interface Demo**
+  ![Document Polishing Feature Demo](screenshot/Polish_compressed.gif)
 
-## Writing Suggestions
-Whether it's copywriting, content creation, or creative expression, the assistant can provide targeted suggestions and tips through intelligent analysis and recommendations. This feature can help improve the quality of documents, enhance content attractiveness, and even inspire creative ideas, making you more effective in writing and creativity.
+#### 🛠️ **Toolbox Features**
+- **AI Meeting Minutes**: Automatically generate professional meeting minutes format based on document content
+- **AI Summary & Extraction**: Quickly extract key content from documents, saving reading time
+- **Weekly Report Assistant**: Quickly organize weekly report key information into standard format
+- **One-click Delete**: Delete extra blank lines, clear formatting, remove hyperlinks, etc.
+- **Table Processing**: Insert content before tables, display headers across pages, select entire tables, etc.
+- **Image to Text**: Recognize text in images and convert to editable text
 
-## Image to Text
-Recognizes text in images and outputs it to a Word document. With this feature, you can import images containing text into documents, and the assistant will automatically recognize the text content in the image and accurately convert it into editable text, making it convenient for you to further edit or use in Word.
+More details: [WordAI Detailed Documentation](https://github.com/office-sec/OfficeAI/wiki/3-WordAI-Plugin)
 
-# AI Illustrations
+---
 
-Generate corresponding images by describing them in text within Office, eliminating the hassle of searching for images online.
-![AI Illustrations](text2image_main.png)
+## Excel AI 📊
 
-## Example
-Keywords:
+OfficeAI provides a comprehensive set of efficient and common AI features in Excel/WPS plugins:
 
-    Create a healing illustration with a kitten as the main character.
-    Main elements: kitten, yarn ball
-    Background: minimalist, clean
-    Requirements: warm colors, cute style.
+#### 💬 **AI Dialogue & Data Analysis**
+- **Excel Dialogue**: Direct dialogue to generate data analysis
+- **Intelligent Command Execution**: No formulas needed, easily handle complex instructions
 
-Result after generation:
-![AI Illustration](text2image_example1.png)
+  **AI Dialogue & Data Analysis Interface Demo**
+  ![Excel AI Dialogue Feature Demo](screenshot/新增-1/Excel/chat%20to%20form.gif)
 
-# Word Features
+#### 📊 **Data Analysis & Visualization**
+- **Data Visualization**: Automatically generate various charts and visualization views
+- **Enterprise Privacy**: Local operation, ensuring data security
+- **Data Cleaning**: One-click cleaning and optimization of table data
 
-Easily accomplish various functions in Word through interaction with AI, without the need to search for specific function locations or memorize complex VBA macro codes. This interactive operation provides users with a more intuitive and user-friendly interface, making it more convenient and efficient to complete tasks. Whether for beginners or experienced users, this intelligent usage experience makes document editing more enjoyable and efficient, saving a lot of time and effort.
+  **Data Visualization Feature Demo**
+  ![Excel Data Visualization Demo](screenshot/新增-1/Excel/chart_compressed.gif)
 
-## Insert Special Symbols
-No need to manually search for symbols like checkmarks, pentagrams, or circled numbers from the menu.
-![Insert Symbols](insert_symbol.png)
+#### 🎯 **Core Data Processing Features**
+- **Formula Channel**: Natural language inquiry, AI automatically generates formulas
+- **Cross-sheet Processing**: Cross-worksheet data processing and analysis
+- **Batch Calculation**: Support addition, subtraction, multiplication, division and other batch operations
+- **Data Extraction**: One-click extraction or filtering of various data
+- **Intelligent Statistics**: Sum, average, maximum, minimum, etc.
 
-## AI Proofreading/Correction
-Current mainstream input methods provide predictive input, resulting in occasional typos in Word. The built-in spell check in Word is somewhat ineffective for Chinese. AI proofreading provides much better results!
-![AI Proofreading](proofreading.gif)
+  **Cross-sheet Processing Feature Demo**
+  ![Excel AI Dialogue Feature Demo](screenshot/新增-1/Excel/chat%20to%20form.gif)
 
-## Automatic Table Adjustment
-Easily solve the problem of incomplete display of table contents copied from Excel.
-![Table Auto Adjustment](tables_auto_fit.gif)
+#### 🎨 **Format & Style Processing**
+- **Number Format Conversion**: Chinese numbers, uppercase numbers, text format, etc.
+- **Currency Format Processing**: Uppercase currency, ten thousand units, thousand separators
+- **Cell Highlighting**: Intelligent highlighting, customizable effects
+- **Quick Formatting**: Ten thousand units, currency symbols, Chinese numbers, etc.
 
-## One-click Punctuation Replacement
-Quickly replace English punctuation (e.g., ',.<>') with Chinese punctuation (e.g., '，。《》'). This makes the text more standardized and unified across different contexts, improving the overall quality and readability of the document.
+  **Format & Style Processing Interface Demo**
+  ![Excel Format Processing Feature Demo](screenshot/新增-1/Excel/format_compressed.gif)
 
-## Remove Blank Lines Throughout the Document
-Quickly remove large sections of blank lines in documents, making the document format clearer and more tidy. This feature allows you to remove unnecessary blank lines with one click, saving time and ensuring a more standardized format for the document.
-![Remove All Blank Lines](removebreaks.gif)
+#### 🛠️ **Toolbox Features**
+- **Quick Input**: Gender, check/cross, yes/no, etc., support dropdown boxes
+- **Rounding**: Round up, round down, round to even, etc.
+- **Name Processing**: Modify, align, extract names
+- **ID Card Processing**: Mask information, extract birth date, age, gender
+- **Phone Number**: Mask, segment display, random generation
+- **Table Translation**: Support multi-language table content translation, one-click language conversion
 
-## Set Background Color
-Set a specified background color for the current document. With this feature, you can choose the desired color and apply it to the background of the entire document. This operation can make the document more personalized and visually appealing, making it stand out and easy to distinguish.
+  **Translation Feature Demo**
+  ![Excel Translation Feature Demo](screenshot/新增-1/Excel/trans_compressed.gif)
 
-## Set Background Image
-Quickly set a background image for the document to improve work efficiency.
+More details: [ExcelAI Detailed Documentation](https://github.com/office-sec/OfficeAI/wiki/4-ExcelAI-Plugin#432-extractfilter)
 
-## Select Entire Table
-Resolved the issue of incomplete selection when manually selecting tables in Word documents. With this feature, you can efficiently select the desired table content, avoiding incomplete selection that may occur with manual operations, improving work efficiency, and ensuring the accuracy of the entire table selection.
+---
 
-## Insert Non-deforming Images into Cells
-Insert images into cells that adapt to the size of the cells, solving the problem of tables being stretched every time an image is inserted, affecting appearance.
-![Insert Non-deforming Images into Cells](table_insert_pic.gif)
+## Supported LLMs
 
-## Add Table Headers Across Pages
-Add titles to tables on each page. This operation allows each table page to clearly present title information, making the document more structured and readable, facilitating user reading and understanding of multi-page table content. This feature greatly enhances the overall organization and visualization of the document, making the table clear and understandable when displayed on multiple pages.
+Supports connection to various large language models, including:
+- 🤖 Claude / Gemini / DeepSeek / OpenRouter 
+Users can freely configure API Keys for flexible access.
 
-## Delete Blank Pages
-Easily remove extra blank pages caused by table formatting, keeping the document format clean, improving document readability, and avoiding printing extra blank pages.
+---
 
-## Input Before Tables
-Insert characters before tables, effectively solving the problem of not being able to directly add titles or descriptions before tables. This feature allows users to insert text before tables, such as titles or descriptions, to provide clearer context for table content, enhancing document readability and structure. This operation simplifies the editing of content around tables, making it easier for users to manage table formatting and structure in documents.
+## Installation
 
-## Remove Header Horizontal Lines
-Quickly remove horizontal lines in headers. This operation allows users to easily remove unnecessary horizontal lines in headers, improving the overall appearance and professionalism of the document. This convenient editing feature saves users time, making the page layout clearer and tidier, ensuring the aesthetic and consistency of the document's appearance.
+**System Requirements**: Windows 7/10/11 or later + Office 2013/2016/2019/Office 365
 
-## Generate Tables
-Insert tables with specified rows and columns. For example:
-"Please insert a table with 5 rows and 3 columns."
+1. ⬇️ Download plugin installation package: [Install Now](https://office-ai.net/feature/wordai/)  
+2. 📦 Extract and double-click to run the installer  
+3. 🧑‍💻 Open Word or Excel or WPS, the plugin will load automatically  
+4. ✨ Plugin entry is located in the top toolbar, click to start your intelligent office journey!
 
-## Undo Last Operation
-You can undo the last word operation. For example:
-"Please undo the last operation."
+---
 
-# Excel Features
+## Usage Guide
 
-## Formula Channel
-Ask for the formula you want through AI and directly apply it to Excel.
-![ExcelAI](excelai.gif)
+Please refer to the complete usage tutorial 👉 [https://github.com/office-sec/OfficeAI/wiki/3-WordAI-Plugin]
 
-**Formula Channel** provides three ways to generate formulas directly:
-1. Natural language dialogue:
-``` 
-Calculate the total sales of vegetables in the category, and place the result in F2.
-```
+📌 **Tip**: The plugin's right-side floating window supports continuous dialogue and can embed local content context
 
-2. With column titles:
-``` 
-Calculate the total sales of "fruit" in the category.
-```
+---
 
-3. Direct cell range:
-```
-Calculate the average of C2:C6.
-```
+## Resources
 
-Formulas can also be generated in the **Chat** page using column names and cell references:
-* With column titles:
-```
-Calculate the total sales of "fruit" in the category.
-```
-* Cell range method:
-```
-Calculate the average of C2:C6.
-```
+- 📄 [Product Website](https://office-ai.net)  
+- 📚 [GitHub Wiki Detailed Documentation](https://github.com/office-sec/OfficeAI/wiki)
+- 🔗 [Terms of Service & Privacy Policy](https://office-ai.net/policy)
 
-## Batch Insert Pictures
-Batch insert pictures, align them with cells, and keep the picture sizes consistent. Example:
-```
-Please insert pictures, place them in cell B1, and meet the following requirements:
-Initial picture size: cell size
-Picture adapts to cell: yes
-Show comments: yes
-Comment display position: left
-```
+---
 
-## One-click Cell Size Setting
-Directly adjust the column width and row height of cells at once, without the need for manual adjustments. Example:
-```
-Set the height of the selected cells to 50 and the width to 25.
-```
+## Development Roadmap
 
-## Extract Unique Data
-Extract unique data from one or more columns of data and place them in new cells. Example:
-```
-Please extract unique data from A1 to B10 and place them in cell C1.
-```
-![Unique](unique.png)
+- 🔌 Support for macOS version  
+- 📚 Long-text polishing, translation and other long-text interactions  
+- 🎨 AI Intelligent Formatting: Automatically analyze document formats and generate custom templates
+- 🧙‍♂️ Stronger context understanding capabilities  
+- ✨ Support for more languages  
+- 🤖 More convenient plugin API Key binding and operations  
+- 📊 Excel feature enhancement and optimization
 
-## Sum, Average, Maximum, Minimum
-Perform statistical operations such as sum, average, maximum, minimum, etc., on cells. Example:
-```
-Calculate the sum of the data in A1:A10 and place the result in cell C1.
-```
+---
 
-## Quick Data Formatting
-Quickly set data to common formats, such as displaying in units of ten thousand, showing currency symbols, displaying Chinese numerals, etc.
-![Quick Formatting](toolbar.png)
+## Contributing
 
+Welcome any form of contribution! Including but not limited to:
 
+- 🐛 Bug reports  
+- ✨ New feature suggestions  
+- 🧑‍💻 PR submissions  
+- 📖 Usage documentation supplements  
+
+---
+
+## Contact Us
+
+- 🌐 Website: [https://office-ai.net](https://office-ai.net)    
+- 📧 Email: service@office-ai.net
